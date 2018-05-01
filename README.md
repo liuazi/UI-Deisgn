@@ -1,3 +1,3 @@
 # AI
 about of ui desige
-![E阅APP设计](https://github.com/liuazi/UI-Deisgn/E阅APP设计.jpg)
+![E阅APP设计](https://github.com/liuazi/UI-Deisgn/blob/master/E阅APP设计.jpg)
